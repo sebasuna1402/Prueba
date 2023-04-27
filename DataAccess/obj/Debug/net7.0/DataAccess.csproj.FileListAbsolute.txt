@@ -1,0 +1,14 @@
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\bin\Debug\net7.0\DataAccess.runtimeconfig.json
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\bin\Debug\net7.0\DataAccess.dll
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.dll
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\DataAccess.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Desktop\prueba progra 1V\PruebApi\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
